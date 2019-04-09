@@ -4773,7 +4773,7 @@
 			"native": {
 				"eng": {"official": "Bailiwick of Guernsey", "common": "Guernsey"},
 				"fra": {"official": "Bailliage de Guernesey", "common": "Guernesey"},
-				"nfr": {
+				"nrf": {
 					"official": "Dg\u00e8rn\u00e9siais",
 					"common": "Dg\u00e8rn\u00e9siais"
 				}
@@ -4798,7 +4798,7 @@
 		"languages": {
 			"eng": "English",
 			"fra": "French",
-			"nfr": "Guern\u00e9siais"
+			"nrf": "Guern\u00e9siais"
 		},
 		"translations": {
 			"ces": {"official": "Rycht\u00e1\u0159stv\u00ed Guernsey", "common": "Guernsey"},
