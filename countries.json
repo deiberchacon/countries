@@ -1650,7 +1650,7 @@
 			"common": "Belize",
 			"official": "Belize",
 			"native": {
-				"bjz": {"official": "Belize", "common": "Belize"},
+				"bzj": {"official": "Belize", "common": "Belize"},
 				"eng": {"official": "Belize", "common": "Belize"},
 				"spa": {"official": "Belice", "common": "Belice"}
 			}
@@ -1672,7 +1672,7 @@
 		"region": "Americas",
 		"subregion": "Central America",
 		"languages": {
-			"bjz": "Belizean Creole",
+			"bzj": "Belizean Creole",
 			"eng": "English",
 			"spa": "Spanish"
 		},
